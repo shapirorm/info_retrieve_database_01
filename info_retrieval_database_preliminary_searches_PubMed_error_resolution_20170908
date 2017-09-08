@@ -1,0 +1,27 @@
+#Realized the PubMed searches needed to be in PubMed MEDLINE
+#Rerunning searches
+9/8/2017, 9:34:54 AM
+
+#PloS one
+s1: ("neoplasms"[MeSH Terms] AND "PloS one"[Journal]) AND ("2005/01/01"[PDAT] : "2010/31/12"[PDAT]) AND medline[sb]
+Results: 1332
+#Confirmed, same number as without [sb]MEDLINE
+
+#NEJM
+s1: ("neoplasms"[MeSH Terms] AND "The New England journal of medicine"[Journal]) AND ("2005/01/01"[PDAT] : "2010/31/12"[PDAT]) AND medline[sb]
+Results: 1530
+#Confirmed, same number as without [sb]MEDLINE
+
+#JAMA
+s1: ("neoplasms"[MeSH Terms] AND "jama"[Journal]) AND ("2005/01/01"[PDAT] : "2010/31/12"[PDAT]) AND medline[sb]
+Results: 643
+#Confirmed, same number as without [sb]MEDLINE
+
+#Lancet
+s1: ("neoplasms"[MeSH Terms] AND "Lancet (London, England)"[Journal]) AND ("2005/01/01"[PDAT] : "2010/31/12"[PDAT]) AND medline[sb]
+Results 701
+#Confirmed, same number as without [sb]MEDLINE
+
+#info_retrieval_database_preliminary_searches_PubMed_error_resolution_20170908 saved to info_retrieve_database_01
+#uploading to https://github.com/shapirorm/info_retrieve_database_01
+9/8/2017, 9:42:37 AM
