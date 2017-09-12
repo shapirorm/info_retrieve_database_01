@@ -1,0 +1,83 @@
+#Preliminary searches
+#ProQuest MEDLINE
+9/12/2017, 1:34:33 PM
+
+#JAMA
+s1: Exact("JAMA")
+results: 69,969
+
+s2: mesh("neoplasms")
+results: 2,439,369
+
+s3: mesh.Exact("Neoplasms")
+results: 371,655
+
+s4: pub.Exact("JAMA") AND mesh.Exact("Neoplasms")
+results: 1,388
+
+s5: pub.Exact("JAMA") AND mesh.Exact("Neoplasms")Limits applied
+Databases: MEDLINE®
+Narrowed by: Entered date:  2005-01-01 - 2010-12-31
+results: 155
+
+9/12/2017, 1:39:00 PM
+
+#NEJM
+s1: pub.Exact("The New England journal of medicine")
+results: 75,247
+
+s2: pub.Exact("The New England journal of medicine") AND mesh.Exact("Neoplasms")
+results: 1,624
+
+s3: pub.Exact("The New England journal of medicine") AND mesh.Exact("Neoplasms")Limits applied
+Databases: MEDLINE®
+Narrowed by: Entered date:  2005-01-01 - 2010-12-31
+results: 123
+
+9/12/2017, 1:42:42 PM
+
+#break in work
+
+9/12/2017, 4:56:39 PM
+
+#Lancet
+s1: pub.Exact("Lancet (London, England)")
+results: 133,619
+
+s2: pub.Exact("Lancet (London, England)") AND mesh.Exact("Neoplasms")
+results: 2,066
+
+s3: pub.Exact("Lancet (London, England)") AND mesh.Exact("Neoplasms")Limits applied
+Databases: MEDLINE®
+Narrowed by: Entered date:  2005-01-01 - 2010-12-31
+results: 103
+
+9/12/2017, 5:01:58 PM
+
+#BMJ Open
+s1: pub.Exact("BMJ open")
+results: 8,222
+
+s2: pub.Exact("BMJ open") AND mesh.Exact("Neoplasms")
+results: 66
+
+s3: pub.Exact("BMJ open") AND mesh.Exact("Neoplasms")Limits applied
+Databases: MEDLINE®
+Narrowed by: Entered date:  2005-01-01 - 2010-12-31
+results: 0
+
+9/12/2017, 5:04:53 PM
+
+#PloS one
+s1: pub.Exact("PloS one")
+results: 182,356
+
+s2: pub.Exact("PloS one") AND mesh.Exact("Neoplasms")
+results: 1,829
+
+s3: pub.Exact("PloS one") AND mesh.Exact("Neoplasms")Limits applied
+Databases: MEDLINE®
+Narrowed by: Entered date:  2005-01-01 - 2010-12-31
+results: 225
+
+9/12/2017, 5:06:49 PM
