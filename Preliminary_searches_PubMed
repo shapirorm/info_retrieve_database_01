@@ -1,0 +1,82 @@
+#Preliminary searches
+#PubMed MEDLINE
+9/12/2017, 12:29:35 PM
+
+#JAMA
+s1: "neoplasms"[MeSH]
+results: 2,949,609
+
+s2: "neoplasms"[MeSH] AND medline[sb]
+results: 2,948,959
+
+s3: "jama"[Journal]
+results: 69,943
+
+s4: "jama"[Journal] AND medline[sb]
+results: 68,851
+
+s5: "neoplasms"[MeSH] AND "jama"[Journal] AND medline[sb]
+results: 7,087
+
+s6: "neoplasms"[MeSH] AND "jama"[Journal] AND medline[sb] AND ("2005/01/01"[PDAT] : "2010/12/31"[PDAT])
+results: 652
+
+9/12/2017, 12:35:13 PM
+
+#NEJM
+s1: "The New England journal of medicine"[Journal]
+results: 75,248
+
+s2: "The New England journal of medicine"[Journal] AND medline[sb]
+results: 74,931
+
+s3: "neoplasms"[MeSH] AND "The New England journal of medicine"[Journal] AND medline[sb]
+results: 11,508
+
+s4: "neoplasms"[MeSH] AND "The New England journal of medicine"[Journal] AND medline[sb] AND ("2005/01/01"[PDAT] : "2010/12/31"[PDAT])
+results: 1538
+
+9/12/2017, 12:38:31 PM
+
+#Lancet
+s1: "Lancet (London, England)"[Journal]
+results: 133,593
+
+s2: "Lancet (London, England)"[Journal] AND medline[sb]
+results: 132,065
+
+s3: "neoplasms"[MeSH] AND "Lancet (London, England)"[Journal] AND medline[sb]
+results: 13,512
+
+s4: "neoplasms"[MeSH] AND "Lancet (London, England)"[Journal] AND (("2005/01/01"[PDAT] : "2010/12/31"[PDAT]) AND medline[sb])
+results: 705
+
+9/12/2017, 12:41:14 PM
+
+#BMJ Open
+s1: "bmj open"[Journal]
+results: 8222
+
+s2: "bmj open"[Journal] AND medline[sb]
+results: 3225
+
+s3: "neoplasms"[MeSH] AND "bmj open"[Journal] AND medline[sb]
+results: 268
+
+s4: "neoplasms"[MeSH] AND "bmj open"[Journal] AND (("2005/01/01"[PDAT] : "2010/12/31"[PDAT]) AND medline[sb])
+results: 0
+
+9/12/2017, 12:43:28 PM
+
+#PloS one
+s1: "PloS one"[Journal]
+results: 182,465
+
+s2: "PloS one"[Journal] AND medline[sb]
+results: 170,455
+
+s3: "neoplasms"[MeSH] AND "PloS one"[Journal] AND medline[sb]
+results: 18,512
+
+s4: "neoplasms"[MeSH] AND "PloS one"[Journal] AND (("2005/01/01"[PDAT] : "2010/12/31"[PDAT]) AND medline[sb])
+results: 1398
