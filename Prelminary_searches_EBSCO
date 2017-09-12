@@ -1,0 +1,76 @@
+#Preliminary searches
+#EBSCO MEDLINE
+9/12/2017, 12:49:53 PM
+
+#JAMA
+s1: JN "JAMA [JAMA] NLMUID: 7501160"
+results: 69,903
+
+s2: (MH "Neoplasms+")
+results: 2,947,390
+
+s3: JN "JAMA [JAMA] NLMUID: 7501160" AND (MH "Neoplasms+")
+results: 7,085
+
+s4: JN "JAMA [JAMA] NLMUID: 7501160" AND (MH "Neoplasms+")
+Limiters: Date of Publication: 20050101-20101231
+results: 650
+
+#Just for fun, I ran a search with Neoplasms, no explosion
+s5: JN "JAMA [JAMA] NLMUID: 7501160" AND (MH "Neoplasms")
+Limiters: Date of Publication: 20050101-20101231
+results: 155
+
+9/12/2017, 12:57:02 PM
+
+#NEJM
+s1: JN "The New England journal of medicine [N Engl J Med] NLMUID: 0255562"
+results: 75,234
+
+s2: JN "The New England journal of medicine [N Engl J Med] NLMUID: 0255562" AND (MH "Neoplasms+")
+results: 11,508
+
+s3: JN "The New England journal of medicine [N Engl J Med] NLMUID: 0255562" AND (MH "Neoplasms+")
+Limiters: Date of Publication: 20050101-20101231
+results: 1,537
+
+9/12/2017, 12:59:40 PM
+
+#Lancet
+s1: JN "Lancet [Lancet] NLMUID: 2985213R"
+results: 133,564
+
+s2: JN "Lancet [Lancet] NLMUID: 2985213R" AND (MH "Neoplasms+")
+results: 13,511
+
+s3: JN "Lancet [Lancet] NLMUID: 2985213R" AND (MH "Neoplasms+")
+Limiters: Date of Publication: 20050101-20101231
+results: 700
+
+9/12/2017, 1:02:35 PM
+
+#BMJ Open
+s1: JN "BMJ open [BMJ Open] NLMUID: 101552874"
+results: 8,207
+
+s2: JN "BMJ open [BMJ Open] NLMUID: 101552874" AND (MH "Neoplasms+")
+results: 268
+
+s3: JN "BMJ open [BMJ Open] NLMUID: 101552874" AND (MH "Neoplasms+")
+Limiters: Date of Publication: 20050101-20101231
+results: 0
+
+9/12/2017, 1:04:24 PM
+
+#PloS one
+s1: JN "PloS one [electronic resource] [PLoS One] NLMUID: 101285081"
+results: 182,440
+
+s2: JN "PloS one [electronic resource] [PLoS One] NLMUID: 101285081" AND (MH "Neoplasms+")
+results: 18,383
+
+s3: JN "PloS one [electronic resource] [PLoS One] NLMUID: 101285081" AND (MH "Neoplasms+")
+Limiters: Date of Publication: 20050101-20101231
+results: 1,398
+
+9/12/2017, 1:07:33 PM
