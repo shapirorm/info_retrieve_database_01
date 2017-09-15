@@ -1,0 +1,19 @@
+#Final search syntax for each journal title and interface
+9/13/2017, 11:16:32 AM
+
+#PubMed
+
+"JAMA"[Journal] AND "neoplasms"[MeSH:noexp] AND ("2011/01/01"[PDAT] : "2013/12/31"[PDAT]) AND medline[sb]
+results: 71
+
+"The New England journal of medicine"[Journal] AND "neoplasms"[MeSH:noexp] AND ("2011/01/01"[PDAT] : "2013/12/31"[PDAT]) AND medline[sb]
+results: 71
+
+"Lancet (London, England)"[Journal] AND "neoplasms"[MeSH:noexp] AND ("2011/01/01"[PDAT] : "2013/12/31"[PDAT]) AND medline[sb]
+results: 82
+
+"bmj open"[Journal] AND "neoplasms"[MeSH:noexp] AND ("2011/01/01"[PDAT] : "2013/12/31"[PDAT]) AND medline[sb]
+results: 0
+
+"PloS one"[Journal] AND "neoplasms"[MeSH:noexp] AND ("2011/01/01"[PDAT] : "2013/12/31"[PDAT]) AND medline[sb]
+results: 766
