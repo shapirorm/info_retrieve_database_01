@@ -1,0 +1,18 @@
+#Final search syntax for each journal title and interface
+9/15/2017, 8:53:09 AM
+
+#ProQuest MEDLINE
+
+PUB.EXACT("JAMA") AND MESH.EXACT("Neoplasms") AND PD(20110101-20131231)
+results: 71
+
+PUB.Exact("The New England journal of medicine") AND MESH.EXACT("Neoplasms") AND PD(20110101-20131231)
+results: 71
+
+PUB.Exact("Lancet (London, England)") AND MESH.EXACT("Neoplasms") AND PD(20110101-20131231)
+results: 77
+
+PUB.Exact("PloS one") AND MESH.EXACT("Neoplasms") AND PD(20110101-20131231)
+results: 766
+
+9/15/2017, 8:56:40 AM
