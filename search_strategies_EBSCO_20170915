@@ -1,0 +1,18 @@
+#Final search syntax for each journal title and interface
+9/15/2017, 8:36:15 AM
+
+#EBSCO
+
+(JN "JAMA [JAMA] NLMUID: 7501160") AND (MH "Neoplasms") AND (DT 20110101-20131231)
+results: 71
+
+(JN "The New England journal of medicine [N Engl J Med] NLMUID: 0255562") AND (MH "Neoplasms") AND (DT 20110101-20131231)
+results: 71
+
+(JN "Lancet [Lancet] NLMUID: 2985213R") AND (MH "Neoplasms") AND (DT 20110101-20131231)
+results: 77
+
+(JN "PloS one [electronic resource] [PLoS One] NLMUID: 101285081") AND (MH "Neoplasms") AND (DT 20110101-20131231)
+results: 766
+
+9/15/2017, 8:46:36 AM
